@@ -639,7 +639,8 @@ api_keys = {"virustotal": "your_virustotal_api_key"}
 #### Team details
     Team Name:    Processing2o
     University:   NFSU, Goa
-    Team members: Haardik Paras Bhagtani
+    Team members: Abhijeet Kumar
+                  Haardik Paras Bhagtani
                   Mihir Ranjan
-                  Abhijeet Kumar
-                  Swarnim Jodh
+                  
+                  
